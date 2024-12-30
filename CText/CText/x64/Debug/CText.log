@@ -1,0 +1,11 @@
+﻿  CText.cpp
+  FileHandler.cpp
+  main.cpp
+C:\Users\kolya\projects\CText\CText\CText\CText\UI.h(9,10): error C1014: слишком много включаемых файлов: глубина = 1024
+  SerachEngine.cpp
+  (компиляция исходного файла "main.cpp")
+  
+  SortAlgorithm.cpp
+  TextEditor.cpp
+  UI.cpp
+  Создание кода...
